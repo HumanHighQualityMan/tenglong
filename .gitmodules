@@ -1,0 +1,3 @@
+[submodule "EntityTest"]
+	path = EntityTest
+	url = https://github.com/HumanHighQualityMan/EntityTest.git
